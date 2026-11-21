@@ -1,4 +1,0 @@
-model,epochs,model_params,test_images,test_accuracy,test_top5_accuracy,test_loss,train_minutes,checkpoint
-ANN,3,4406537,162817,0.29517802596092224,0.5294901728630066,3.8665475845336914,11.956485394766666,/content/drive/MyDrive/DIT5411/final_results/ann/epoch_003.keras
-Simple CNN,3,3801481,162817,0.740149974822998,0.9314690828323364,1.08912992477417,22.548969143116633,/content/drive/MyDrive/DIT5411/final_results/simple_cnn/epoch_003.keras
-Deep CNN,4,2826761,162817,0.9000657200813293,0.985677182674408,0.3691728413105011,34.05074282693334,/content/drive/MyDrive/DIT5411/final_results/deep_cnn/epoch_004.keras
